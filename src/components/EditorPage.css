@@ -1,0 +1,20 @@
+.editor-page {
+  padding: 20px;
+}
+
+#canvas-container {
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  width: 800px;
+  height: 600px;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+.controls button {
+  margin: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
